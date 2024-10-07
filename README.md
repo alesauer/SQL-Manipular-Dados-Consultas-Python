@@ -23,7 +23,7 @@ Cada tabela é representada por uma classe Python usando SQLAlchemy e permite op
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/sistema_financeiro_familiar.git
+    git clone https://github.com/alesauer/SQL-Manipular-Dados-Consultas-Python.git
     ```
 
 2. **Instale as dependências**:
